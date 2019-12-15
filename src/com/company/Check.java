@@ -7,5 +7,6 @@ public class Check {
 
 
         System.out.println(a[5]);
+        System.out.println("haha")
     }
 }
